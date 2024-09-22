@@ -36,8 +36,7 @@ K-Means Python Application
 - BAN6440Module4Assignment/
 - ├── K-meansPythonApp.py          # Main application for K-Means clustering
 - ├── test_kmeans.py               # Unit tests for the application
-- ├── jhu_csse_covid_19_timeseries_merged.csv # Dataset used for analysis
-- └── Executive_Summary.docx       # Executive summary of the project
+- └── jhu_csse_covid_19_timeseries_merged.csv       # Dataset used for analysis
 -------------------------------------
 
 ## Conclusion
